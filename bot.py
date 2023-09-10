@@ -24,4 +24,4 @@ bot = commands.Bot(command_prefix="!")
 bot.add_cog(Rolsüz(bot))
 bot.add_cog(Rolver(bot))
 
-bot.run("MTE0OTQ2NjM3MTk1MzAwMDQ1MA.G2IEqE.s4UdMbSzdr7djwlMS2cgZePW9HpKfaI416a5t4")
+bot.run("")
